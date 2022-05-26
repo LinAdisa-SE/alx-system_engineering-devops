@@ -1,1 +1,1 @@
-Create a magic file school.mgc that can be used with the command file to detect School data files
+Create a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory
